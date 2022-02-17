@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9105769-3895-4f66-9f5c-9b47965828ff": {
+      "ProjectGuid": "a9105769-3895-4f66-9f5c-9b47965828ff",
+      "DisplayName": "Selenium.e2e.Tests",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
